@@ -1,1 +1,1 @@
-# database
+# Our mission is to develop a comprehensive database for a new board game that is able to keep track of user and game information, as well as room and result data, in order to provide an enjoyable and easy-to-access experience for players.
